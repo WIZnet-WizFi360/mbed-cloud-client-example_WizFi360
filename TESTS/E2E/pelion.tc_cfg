@@ -1,0 +1,6 @@
+{
+    "device_id"  : "your-device-id",
+    "api_key"    : "ak_1MDE2MTI3M2VkYzIxMGE1ODBhMDEwZTE4MDAwMDAwMDA016da983a595fe29037b0a7e00000000Mf5O28ytnBDdIM3AezkdVvx8XGabkyCw",
+    "host"       : "https://api.us-east-1.mbedcloud.com",
+    "manifest_id": "your-manifest-id"
+}

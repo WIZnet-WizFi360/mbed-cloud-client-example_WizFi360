@@ -1,0 +1,7 @@
+BUILD
+.mbed
+update_key.key
+update_certificate.pem
+drivers/wifi-x-nucleo-idw01m1
+mbed-cloud-client
+mbed-os
